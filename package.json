@@ -1,0 +1,32 @@
+{
+    "name": "vue-element-bigdate-table",
+    "version": "1.0.0",
+    "description": "基于element-ui table的大数据处理",
+    "main": "index.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "babel-node index"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/rain520/vue-element-bigDate-table.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/rain520/vue-element-bigDate-table/issues"
+    },
+    "homepage": "https://github.com/rain520/vue-element-bigDate-table#readme",
+    "dependencies": {
+        "@babel/node": "^7.5.5"
+    },
+    "devDependencies": {
+        "@smartx/eslint-config-tentative": "^1.2.0",
+        "@babel/core": "^7.5.5",
+        "@babel/preset-env": "^7.5.5"
+    }
+}
